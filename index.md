@@ -16,7 +16,7 @@
     </div>
     <div class="main">
         <div class="pic">
-            <img src="tribute-page-main-image.jpg" width="900px">
+            <img src="tribute-page-main-image.jpg" width="900px" alt="Dr. Norman Borlaug seen standing in Mexican wheat field with a group of biologists">
             <p>Dr. Norman Borlaug, third from the left, trains biologists in Mexico on how to increase wheat yields -
                 part of his
                 life-long war on hunger.</p>
